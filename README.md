@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @andiparis
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Front-End Web Development using ReactJS
-<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me on
+<!-- - 💞️ I’m looking to collaborate on ... -->
+<a href="https://www.linkedin.com/in/andi-paris-b-871960141/" target="_blank">LinkedIn</a>
 <!-- <a href="https://www.instagram.com/andi_paris_bachtiar/" target="_blank">Instagram</a> and -->
 <!-- <a href="https://twitter.com/<USERNAME_ANDA>" target="_blank">Twitter</a>, -->
-<a href="https://www.linkedin.com/in/andi-paris-b-871960141/" target="_blank">LinkedIn</a>
 <!-- <a href="https://medium.com/@<USERNAME_ANDA>" target="_blank">Medium</a> -->
 
 <!---
