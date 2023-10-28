@@ -1,8 +1,8 @@
 👋 Hi, I’m Andi
 <br>👀 I’m interested in Software Development especially on the Web
-<br>🌱 Until now I have studied Web Development with PHP, CodeIgniter, JavaScript, ReactJS, and CSS
+<br>🌱 Until now I have studied building Web Development using PHP, CodeIgniter, JavaScript, ReactJS, and CSS
 <br>📫 How to reach me on
-<br>&nbsp;&nbsp;&nbsp;&nbsp;✨ <a href="https://www.linkedin.com/in/andi-paris-b-871960141/" target="_blank">LinkedIn</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andi-paris-bachtiar/)
 
 <!---
 andiparis/andiparis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
