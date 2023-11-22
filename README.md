@@ -1,6 +1,6 @@
 👋 Hi, I’m Andi
 <br>👀 I’m interested in Software Development especially on the Web
-<br>🌱 Until now I have studied building Web Development using HTML / CSS / PHP / CodeIgniter / JavaScript / ReactJS / NodeJS
+<br>🌱 Until now I have studied building Web Development using HTML / CSS / PHP / CodeIgniter / JavaScript / ReactJS / NodeJS / Hapi
 <br>📫 How to reach me on
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andi-paris-bachtiar/)
 
